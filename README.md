@@ -25,3 +25,7 @@ Queries include:
 ### Skills demonstrated
 SQL SELECT, JOIN, WHERE, GROUP BY, HAVING, COUNT, SUM, AVG, filtering, aggregation, business insights
 
+## Structure
+- `SQL_Business_Data_Analysis/` → SQL query files
+- `images/` → screenshots of query results
+
